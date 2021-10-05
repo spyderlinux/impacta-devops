@@ -18,6 +18,6 @@ deploy:
   provider: heroku
   api_key: $HEROKU_API_KEY
   edge: true 
-  app: https://devopslab-rmorais.herokuapp.com
+  app: devopslab-rmorais
   on:
       branch: main
